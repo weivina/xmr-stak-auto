@@ -7,7 +7,7 @@ Ubuntu18.04.1  Ubuntu16.04.5 实测通过
 
 # 使用方法
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/dovela/xmr-stak/master/OneClickMine.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/weivina/xmr-stak-auto/master/OneClickMine.sh
 chmod +x OneClickMine.sh
 ./OneClickMine.sh
 ```
